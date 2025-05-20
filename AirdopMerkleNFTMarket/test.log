@@ -1,0 +1,13 @@
+No files changed, compilation skipped
+
+Ran 2 tests for test/AirdopMerkleNFTMarket.t.sol:AirdopMerkleNFTMarketTest
+[PASS] testClaimNFT() (gas: 174947)
+Logs:
+  Merkle Root: 0x4a5a2548ddc8460c4b5ab7d77505c861381e660a6cd136833d49ada106646765
+  User1 Proof Length: 1
+  Proof 0: 0x69c73efef28445419b5f1618612688c203b37726b27b13d1a4fd06335e00e871
+
+[PASS] testMulticall() (gas: 213410)
+Suite result: ok. 2 passed; 0 failed; 0 skipped; finished in 17.53ms (8.14ms CPU time)
+
+Ran 1 test suite in 498.67ms (17.53ms CPU time): 2 tests passed, 0 failed, 0 skipped (2 total tests)
